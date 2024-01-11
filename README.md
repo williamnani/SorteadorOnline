@@ -28,4 +28,5 @@ Bem-vindo ao repositório oficial do Sorteador Online, uma ferramenta simples e 
 
 Como Contribuir:
 Sinta-se à vontade para contribuir com sugestões, relatórios de bugs ou até mesmo colaborações no código. Seja parte do desenvolvimento deste projeto e ajude a torná-lo ainda melhor!
-# SorteadorOnline
+
+Você pode visualizar o layout do projeto através [DESSE LINK]( https://williamnani.github.io/SorteadorOnline/).
